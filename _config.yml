@@ -4,4 +4,4 @@ author:
   email: d.leslie@lancaster.ac.uk
 description: A rudimentary test Github website
 
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
